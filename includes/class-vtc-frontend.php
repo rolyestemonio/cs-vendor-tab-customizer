@@ -136,7 +136,7 @@ class VTC_Frontend {
         $config = self::get_dynamic_tab_config($vendor_id);
         
         if (!empty($config['custom_css'])) {
-            echo '<style>' . esc_html($config['custom_css']) . '</style>';
+            echo '<style>' . $config['custom_css'] . '</style>';
         }
         
         if (!empty($config['custom_js'])) {
