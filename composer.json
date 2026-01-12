@@ -1,0 +1,13 @@
+{
+    "name": "rolyestemonio/cs-vendor-tabs",
+    "description": "Vendor tab customization plugin converted from theme.",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "CSVendor\\": "includes/"
+        }
+    }
+}
