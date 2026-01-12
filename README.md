@@ -4,7 +4,7 @@ A WordPress plugin for dynamic tab customization system with admin dashboard for
 
 ## Author
 **Roly Estemonio**  
-[GitHub Repository](https://github.com/linkhub)
+[GitHub Repository](https://github.com/rolyestemonio)
 
 ## Description
 
@@ -247,7 +247,7 @@ A: The plugin allows JavaScript for flexibility. Only trusted administrators sho
 ## Support
 
 For issues, questions, or contributions:
-- GitHub: [https://github.com/linkhub](https://github.com/linkhub)
+- GitHub: [https://github.com/rolyestemonio](https://github.com/rolyestemonio)
 
 ## License
 
